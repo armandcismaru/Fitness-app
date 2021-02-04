@@ -9,6 +9,6 @@
 
 ## Vieweing instructions
 
-The compiled and Windows executable version is contained in the folder.  
+The compiled and Windows executable version is contained in the Calories Calculator folder.  
 
 The source code is located in the folder.
