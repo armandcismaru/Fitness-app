@@ -11,4 +11,6 @@
 
 The compiled and Windows executable version is contained in the Calories Calculator folder.  
 
+Unfortunately the original source code has been lost as this is an old-project, developed as a Highschool Final Year Project.
+
 
